@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@google-cloud/firestore": "^1.2.0",
     "core-js": "^2.6.5",
     "vue": "^2.6.6"
   },
