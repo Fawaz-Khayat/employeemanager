@@ -20,5 +20,5 @@ yarn-error.log*
 *.sln
 *.sw*
 # APIs
-# firestoreConfig.js
-# firestoreInit.js
+firestoreConfig.js
+firestoreInit.js
